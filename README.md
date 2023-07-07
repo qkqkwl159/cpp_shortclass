@@ -1,13 +1,9 @@
-# cpp_shortclass
-saved
-
-
 # How to Compile
 cd lastday 이동후 
 g++ game2.cpp -lcurses 입력
 ./a.out 실행 
 
-###Control
+### Control
 j : left
 k : down
 l : right
